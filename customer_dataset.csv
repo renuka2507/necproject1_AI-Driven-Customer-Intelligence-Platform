@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,Annual_Budget,Preferred_Category,Browsing_Time,Discount_Sensitivity,Product_List_Viewed,Purchased_Product,Purchase_Amount,Customer_Segment,Purchase_Frequency,Last_Purchase_Days,Customer_Satisfaction,Loyalty_Score,Churn
+CUST97,43,Male,48695,Home,115,3,"Grocery Essentials,Laptop,Gaming Console",Watch,8854,Medium,7,67,2,54,0
+CUST71,62,Male,70175,Fashion,65,8,"Shoes,Headphones,Household Products",Laptop,6314,Luxury,14,43,7,79,0
+CUST143,33,Male,42722,Home,93,1,"Shoes,Laptop,Watch",Watch,8372,Medium,2,139,6,46,0
+CUST483,18,Female,91520,Sports,72,3,"Household Products,Smartphone,Grocery Essentials",Gaming Console,11023,Luxury,2,73,1,98,0
+CUST261,45,Female,15923,Electronics,84,10,"Household Products,Laptop,Gaming Console",Grocery Essentials,3260,Budget,18,34,6,99,0
+CUST28,34,Female,44050,Electronics,61,7,"Watch,T-Shirt,Shoes",Watch,10058,Medium,8,57,2,85,0
+CUST456,25,Female,15214,Groceries,82,8,"Household Products,Shoes,Headphones",Grocery Essentials,1107,Budget,10,126,2,55,0
+CUST244,57,Male,84819,Groceries,6,2,"Watch,Household Products,T-Shirt",Smartphone,21605,Luxury,12,51,10,51,0
+CUST43,50,Male,81158,Home,69,1,"Shoes,Household Products,Gaming Console",Laptop,4841,Luxury,4,112,7,70,0
+CUST123,43,Female,9777,Electronics,11,1,"T-Shirt,Watch,Shoes",T-Shirt,2811,Budget,9,13,10,100,0
+CUST325,40,Male,75368,Fashion,49,9,"T-Shirt,Smartphone,Headphones",Gaming Console,17551,Luxury,13,33,2,98,0
+CUST173,65,Male,99970,Electronics,23,3,"Headphones,Household Products,Smartphone",Gaming Console,15214,Luxury,16,104,7,27,0
+CUST490,48,Male,14514,Groceries,116,9,"Household Products,Smartphone,Gaming Console",T-Shirt,1983,Budget,3,105,1,36,0
+CUST81,51,Female,57071,Groceries,71,6,"Smartphone,Headphones,Shoes",Shoes,16778,Medium,3,66,5,58,0
+CUST171,65,Female,19506,Fashion,40,6,"Laptop,T-Shirt,Household Products",Household Products,5642,Budget,2,77,6,76,0
+CUST385,33,Female,33272,Groceries,28,7,"Smartphone,Headphones,Grocery Essentials",Headphones,8480,Medium,18,131,8,18,1
+CUST29,25,Male,45181,Electronics,18,8,"Headphones,Laptop,Smartphone",Shoes,2369,Medium,17,74,10,37,0
+CUST380,64,Female,48653,Fashion,92,10,"Shoes,Gaming Console,Headphones",Watch,5970,Medium,4,37,8,57,0
+CUST474,40,Male,47391,Groceries,22,2,"Household Products,Headphones,T-Shirt",Watch,5738,Medium,11,115,2,47,0
+CUST288,20,Female,13928,Home,10,9,"Household Products,Grocery Essentials,Gaming Console",Household Products,4065,Budget,6,33,6,29,0
+CUST379,55,Female,79190,Electronics,97,5,"Gaming Console,Household Products,Headphones",Smartphone,22668,Luxury,16,63,3,88,0
+CUST45,64,Female,84090,Groceries,94,10,"Watch,Laptop,Smartphone",Smartphone,21561,Luxury,6,173,5,95,0
+CUST126,50,Male,44304,Groceries,39,9,"Grocery Essentials,Smartphone,Headphones",Headphones,11990,Medium,2,175,5,43,0
+CUST205,61,Male,6482,Sports,10,4,"Grocery Essentials,Shoes,Watch",Household Products,976,Budget,7,34,2,26,0
+CUST496,28,Female,43457,Fashion,102,9,"T-Shirt,Shoes,Laptop",Headphones,9738,Medium,1,173,2,20,1
+CUST420,38,Male,67840,Fashion,47,7,"Gaming Console,Grocery Essentials,T-Shirt",Gaming Console,3984,Luxury,6,30,8,34,0
+CUST462,28,Male,75164,Groceries,12,2,"Shoes,Gaming Console,Household Products",Laptop,6890,Luxury,19,12,2,89,0
+CUST94,43,Female,94920,Fashion,50,4,"T-Shirt,Headphones,Smartphone",Smartphone,15306,Luxury,5,104,8,65,0
+CUST432,25,Female,89426,Electronics,108,4,"Watch,T-Shirt,Laptop",Laptop,5806,Luxury,4,131,2,37,1
+CUST306,52,Male,55201,Fashion,45,7,"Smartphone,Household Products,Laptop",Shoes,10642,Medium,5,158,10,13,1
+CUST342,53,Female,54129,Groceries,25,6,"Headphones,Shoes,Smartphone",Headphones,12661,Medium,11,111,6,79,0
+CUST245,39,Male,97100,Electronics,37,4,"T-Shirt,Watch,Laptop",Laptop,5982,Luxury,13,171,2,19,1
+CUST436,34,Male,29005,Fashion,96,6,"Headphones,Grocery Essentials,Laptop",Shoes,7475,Medium,8,171,3,63,0
+CUST147,51,Female,25565,Electronics,40,5,"Watch,Shoes,Grocery Essentials",Shoes,3667,Medium,16,40,7,3,0
+CUST98,58,Male,31259,Sports,119,9,"Household Products,Shoes,Gaming Console",Watch,5426,Medium,12,172,5,33,1
+CUST67,52,Female,8199,Electronics,91,3,"Shoes,Smartphone,Gaming Console",Grocery Essentials,893,Budget,14,117,5,72,0
+CUST344,35,Female,71441,Sports,106,4,"Headphones,Smartphone,T-Shirt",Laptop,7642,Luxury,8,7,2,70,0
+CUST169,30,Male,13067,Electronics,50,9,"Grocery Essentials,Laptop,Headphones",Grocery Essentials,1979,Budget,5,128,5,90,0
+CUST402,27,Male,41202,Home,102,3,"Headphones,Grocery Essentials,Gaming Console",Shoes,9590,Medium,11,89,4,57,0
+CUST120,50,Female,32543,Sports,91,10,"Headphones,T-Shirt,Laptop",Watch,8017,Medium,11,145,1,29,1
+CUST453,56,Male,77837,Home,84,6,"T-Shirt,Laptop,Watch",Gaming Console,10037,Luxury,8,65,8,51,0
+CUST431,27,Male,74601,Sports,67,9,"Laptop,Headphones,Smartphone",Smartphone,9754,Luxury,14,10,7,91,0
+CUST63,32,Male,32909,Sports,94,5,"Grocery Essentials,T-Shirt,Headphones",Watch,3192,Medium,15,28,10,3,0
+CUST243,42,Female,92674,Electronics,60,10,"Gaming Console,Household Products,Watch",Laptop,22809,Luxury,11,128,10,46,0
+CUST381,27,Male,55535,Fashion,35,2,"Laptop,Grocery Essentials,Gaming Console",Shoes,9692,Medium,11,119,5,37,0
+CUST406,61,Male,82921,Home,104,6,"Grocery Essentials,Headphones,Shoes",Gaming Console,18569,Luxury,18,91,6,53,0
+CUST497,61,Female,53440,Sports,25,1,"Household Products,Smartphone,Headphones",Watch,10854,Medium,13,157,5,23,1
+CUST159,41,Female,7597,Fashion,73,8,"Smartphone,T-Shirt,Gaming Console",T-Shirt,753,Budget,11,67,5,14,0
+CUST115,59,Male,15555,Electronics,41,2,"T-Shirt,Grocery Essentials,Headphones",Household Products,3877,Budget,13,37,6,58,0
+CUST471,64,Male,46340,Groceries,106,1,"Gaming Console,Headphones,Watch",Watch,6645,Medium,6,19,10,58,0
+CUST135,24,Male,23001,Home,61,1,"Gaming Console,Shoes,T-Shirt",Grocery Essentials,6757,Budget,5,33,10,37,0
+CUST421,43,Male,7635,Fashion,18,10,"Shoes,Headphones,Laptop",Household Products,1413,Budget,7,34,2,100,0
+CUST410,29,Male,46222,Fashion,101,2,"Headphones,Smartphone,Grocery Essentials",Watch,4547,Medium,9,37,6,80,0
+CUST210,63,Female,6553,Electronics,70,4,"Smartphone,Gaming Console,Household Products",T-Shirt,1377,Budget,15,108,3,13,0
+CUST486,37,Male,38922,Sports,53,5,"Household Products,Laptop,Grocery Essentials",Watch,9988,Medium,12,161,6,4,1
+CUST8,44,Female,68078,Fashion,34,8,"Grocery Essentials,Smartphone,Laptop",Laptop,6061,Luxury,10,130,7,35,1
+CUST272,23,Female,52579,Sports,93,3,"Headphones,Laptop,T-Shirt",Watch,8215,Medium,9,72,10,36,0
+CUST255,63,Female,67296,Electronics,22,10,"Grocery Essentials,Household Products,Headphones",Gaming Console,8558,Luxury,6,38,10,40,0
+CUST129,21,Male,23544,Electronics,108,9,"Gaming Console,Headphones,Smartphone",T-Shirt,2799,Budget,9,40,1,73,0
+CUST301,20,Male,21502,Fashion,90,2,"Headphones,Smartphone,T-Shirt",Grocery Essentials,6429,Budget,3,127,4,92,0
+CUST232,28,Female,93781,Electronics,84,4,"Smartphone,Shoes,Laptop",Laptop,14063,Luxury,18,30,3,100,0
+CUST477,19,Male,21644,Groceries,23,9,"Shoes,Headphones,Laptop",Household Products,3766,Budget,1,65,5,47,0
+CUST140,30,Female,91670,Sports,57,4,"Watch,Headphones,Grocery Essentials",Laptop,10543,Luxury,16,2,4,34,0
+CUST465,37,Male,61145,Groceries,52,9,"Headphones,Smartphone,Gaming Console",Laptop,16058,Luxury,16,10,3,55,0
+CUST72,58,Female,57587,Groceries,95,3,"Headphones,Shoes,Laptop",Shoes,16665,Medium,12,120,5,76,0
+CUST326,21,Female,99739,Home,77,3,"Household Products,Grocery Essentials,Gaming Console",Smartphone,23927,Luxury,5,160,4,81,0
+CUST317,27,Male,89614,Sports,73,2,"Household Products,Smartphone,Watch",Laptop,24038,Luxury,16,165,5,84,0
+CUST130,56,Male,17376,Groceries,107,9,"Smartphone,Headphones,Laptop",Household Products,2018,Budget,6,20,10,29,0
+CUST290,32,Male,46593,Fashion,106,3,"Grocery Essentials,Gaming Console,Household Products",Headphones,9247,Medium,18,2,10,34,0
+CUST423,54,Female,60362,Fashion,91,10,"Grocery Essentials,Watch,Gaming Console",Gaming Console,9685,Luxury,8,70,2,33,0
+CUST218,65,Male,55959,Groceries,27,2,"Laptop,Gaming Console,Headphones",Headphones,6226,Medium,7,111,7,69,0
+CUST30,39,Male,83110,Groceries,48,1,"T-Shirt,Watch,Laptop",Laptop,10515,Luxury,15,159,1,27,1
+CUST354,51,Female,12009,Fashion,96,7,"Headphones,Household Products,Watch",Grocery Essentials,1041,Budget,5,60,9,33,0
+CUST146,52,Male,76095,Sports,20,8,"Watch,Shoes,Headphones",Smartphone,5206,Luxury,1,52,8,33,0
+CUST383,37,Male,87561,Home,7,7,"T-Shirt,Watch,Headphones",Smartphone,13671,Luxury,11,125,2,71,0
+CUST356,51,Female,90744,Groceries,88,1,"Smartphone,Watch,Gaming Console",Smartphone,25266,Luxury,16,158,2,4,1
+CUST498,45,Male,31996,Groceries,42,5,"Laptop,Gaming Console,Smartphone",Watch,4498,Medium,19,163,3,60,0
+CUST156,33,Male,47827,Fashion,81,5,"Smartphone,Household Products,Watch",Watch,5323,Medium,19,39,9,36,0
+CUST68,50,Male,99668,Fashion,117,5,"Grocery Essentials,Gaming Console,Smartphone",Gaming Console,24082,Luxury,20,147,2,1,1
+CUST204,26,Male,48581,Fashion,69,8,"Smartphone,Headphones,Shoes",Watch,2540,Medium,5,65,4,94,0
+CUST184,31,Female,5581,Groceries,33,2,"Grocery Essentials,Laptop,T-Shirt",Household Products,333,Budget,11,132,6,86,0
+CUST234,54,Male,17678,Sports,19,4,"Headphones,Shoes,Laptop",T-Shirt,4333,Budget,20,102,9,41,0
+CUST429,38,Female,21707,Sports,74,10,"T-Shirt,Watch,Shoes",Grocery Essentials,4300,Budget,2,116,9,62,0
+CUST77,58,Female,85047,Groceries,83,3,"Headphones,Gaming Console,Household Products",Gaming Console,24388,Luxury,19,99,6,31,0
+CUST153,32,Male,28154,Fashion,115,4,"Watch,Gaming Console,T-Shirt",Watch,1408,Medium,14,169,2,69,0
+CUST40,20,Male,51884,Electronics,69,8,"Gaming Console,Smartphone,Shoes",Headphones,4520,Medium,20,49,7,25,0
+CUST102,62,Female,74915,Fashion,83,1,"Watch,Smartphone,Gaming Console",Gaming Console,9413,Luxury,20,169,2,75,0
+CUST452,63,Male,77881,Fashion,5,6,"Gaming Console,Laptop,Household Products",Gaming Console,6584,Luxury,9,60,8,49,0
+CUST75,41,Male,72754,Electronics,75,10,"Headphones,Gaming Console,Shoes",Laptop,18199,Luxury,9,166,4,19,1
+CUST125,18,Female,33413,Sports,46,6,"Grocery Essentials,Shoes,Headphones",Headphones,6167,Medium,8,77,1,55,0
+CUST481,53,Female,48951,Electronics,42,3,"Watch,Headphones,Laptop",Shoes,3667,Medium,9,32,5,10,0
+CUST443,36,Female,29139,Fashion,78,3,"Watch,T-Shirt,Household Products",Headphones,1929,Medium,4,124,9,25,1
+CUST459,54,Male,72155,Sports,89,7,"Watch,Grocery Essentials,Smartphone",Smartphone,7898,Luxury,15,12,1,55,0
+CUST446,36,Male,6833,Groceries,59,3,"Grocery Essentials,Shoes,Smartphone",T-Shirt,1462,Budget,19,10,1,13,0
+CUST51,26,Female,80649,Sports,77,1,"Headphones,T-Shirt,Gaming Console",Gaming Console,16841,Luxury,18,70,6,11,0
+CUST266,65,Male,77906,Home,84,5,"Household Products,Watch,Headphones",Smartphone,6167,Luxury,17,155,10,73,0
+CUST9,34,Female,8588,Home,63,6,"Headphones,Grocery Essentials,Gaming Console",Household Products,2294,Budget,8,104,2,87,0
+CUST127,34,Female,93642,Groceries,118,5,"Grocery Essentials,Headphones,Shoes",Smartphone,23107,Luxury,19,73,8,9,0
+CUST298,34,Female,9009,Electronics,25,10,"Gaming Console,Laptop,Shoes",Household Products,2349,Budget,15,99,3,64,0
+CUST254,36,Female,64152,Fashion,17,2,"T-Shirt,Gaming Console,Smartphone",Smartphone,18879,Luxury,5,76,3,48,0
+CUST18,56,Female,76810,Groceries,91,1,"Headphones,Grocery Essentials,Gaming Console",Gaming Console,8854,Luxury,6,59,4,9,0
+CUST499,61,Female,27594,Groceries,10,6,"Smartphone,Shoes,Gaming Console",Shoes,5472,Medium,10,164,9,16,1
+CUST488,35,Female,56504,Electronics,60,3,"Laptop,Shoes,Headphones",Watch,8486,Medium,4,54,10,41,0
+CUST485,38,Male,99508,Electronics,78,9,"Shoes,Gaming Console,Grocery Essentials",Laptop,8017,Luxury,2,60,5,84,0
+CUST428,47,Female,59923,Home,65,9,"Shoes,Smartphone,Watch",Shoes,12199,Medium,17,44,1,79,0
+CUST408,26,Male,48413,Home,42,6,"Shoes,Laptop,Household Products",Headphones,14342,Medium,13,24,1,81,0
+CUST373,37,Female,36395,Home,115,7,"Grocery Essentials,T-Shirt,Laptop",Headphones,5011,Medium,6,116,3,69,0
+CUST333,52,Male,99894,Electronics,105,10,"Grocery Essentials,Shoes,Smartphone",Gaming Console,8683,Luxury,16,134,1,92,0
+CUST174,30,Male,53449,Home,66,6,"T-Shirt,Headphones,Household Products",Headphones,7878,Medium,19,97,2,75,0
+CUST38,34,Male,50893,Sports,23,3,"Laptop,Headphones,Shoes",Headphones,13839,Medium,9,22,3,99,0
+CUST57,27,Male,63451,Sports,87,3,"T-Shirt,Household Products,Smartphone",Smartphone,8403,Luxury,20,163,2,60,0
+CUST105,26,Male,50816,Electronics,39,3,"Shoes,Grocery Essentials,Watch",Watch,3967,Medium,4,21,1,36,0
+CUST319,27,Male,53319,Groceries,110,10,"Headphones,Laptop,Watch",Headphones,10447,Medium,5,157,3,69,0
+CUST211,38,Male,93505,Fashion,51,8,"Watch,Headphones,Shoes",Laptop,14533,Luxury,1,123,2,84,0
+CUST307,44,Male,91750,Home,73,2,"Shoes,T-Shirt,Laptop",Gaming Console,9412,Luxury,3,110,7,45,0
+CUST132,37,Female,87442,Sports,24,5,"Laptop,Smartphone,Grocery Essentials",Laptop,23993,Luxury,14,100,1,51,0
+CUST467,41,Female,60078,Electronics,60,10,"Grocery Essentials,T-Shirt,Watch",Gaming Console,4003,Luxury,8,99,2,72,0
+CUST70,49,Male,57692,Fashion,24,7,"Household Products,Watch,Grocery Essentials",Shoes,3326,Medium,10,47,1,43,0
+CUST444,53,Female,35353,Sports,32,8,"Shoes,Gaming Console,Grocery Essentials",Watch,3984,Medium,15,3,1,36,0
+CUST468,44,Female,26363,Fashion,26,7,"Headphones,T-Shirt,Household Products",Headphones,3393,Medium,15,47,5,24,0
+CUST60,52,Female,55852,Sports,95,2,"Grocery Essentials,Gaming Console,Household Products",Headphones,15223,Medium,13,21,7,44,0
+CUST182,53,Female,9972,Electronics,95,4,"Grocery Essentials,Household Products,Watch",Grocery Essentials,2694,Budget,9,96,2,72,0
+CUST11,34,Female,11979,Electronics,15,9,"Headphones,T-Shirt,Watch",Household Products,2423,Budget,5,122,5,57,0
+CUST200,18,Male,77486,Electronics,33,3,"Household Products,Laptop,T-Shirt",Gaming Console,10393,Luxury,16,165,9,8,1
+CUST209,49,Male,56116,Fashion,98,6,"T-Shirt,Gaming Console,Smartphone",Shoes,13808,Medium,2,12,9,45,0
+CUST368,44,Female,31595,Sports,83,6,"Laptop,Watch,Household Products",Shoes,6028,Medium,20,18,2,46,0
+CUST308,18,Female,42585,Sports,95,9,"Household Products,Shoes,Gaming Console",Shoes,11500,Medium,20,156,1,75,0
+CUST302,36,Female,19603,Fashion,79,6,"T-Shirt,Smartphone,Shoes",Household Products,2865,Budget,10,26,8,30,0
+CUST417,21,Male,58270,Fashion,120,8,"Smartphone,Household Products,Grocery Essentials",Headphones,16349,Medium,5,61,1,9,0
+CUST418,61,Male,12809,Home,40,8,"Household Products,Watch,Grocery Essentials",T-Shirt,3828,Budget,18,39,6,34,0
+CUST382,41,Male,53573,Groceries,13,1,"Household Products,Grocery Essentials,Smartphone",Shoes,7426,Medium,2,140,9,92,0
+CUST312,62,Female,94660,Sports,46,9,"Shoes,T-Shirt,Headphones",Laptop,20317,Luxury,15,166,5,3,1
+CUST103,45,Male,33157,Electronics,103,10,"Shoes,Watch,Grocery Essentials",Shoes,3554,Medium,6,142,7,17,1
+CUST47,35,Male,56724,Groceries,32,7,"Laptop,Grocery Essentials,Smartphone",Watch,16543,Medium,15,100,6,54,0
+CUST172,28,Female,96133,Electronics,57,1,"Household Products,Smartphone,Gaming Console",Laptop,15462,Luxury,18,23,2,92,0
+CUST269,25,Female,94545,Electronics,13,9,"Grocery Essentials,Laptop,Household Products",Laptop,11423,Luxury,14,159,7,48,0
+CUST152,36,Male,23905,Sports,111,10,"T-Shirt,Household Products,Grocery Essentials",Household Products,2617,Budget,4,29,6,54,0
+CUST158,45,Female,70728,Home,94,4,"Headphones,Smartphone,Watch",Laptop,5763,Luxury,1,167,6,31,1
+CUST17,25,Female,18891,Sports,72,3,"T-Shirt,Grocery Essentials,Household Products",Grocery Essentials,5505,Budget,3,14,10,45,0
+CUST228,40,Male,98370,Electronics,85,7,"Laptop,Smartphone,Shoes",Gaming Console,8587,Luxury,14,58,7,36,0
+CUST399,30,Male,28958,Fashion,43,5,"Grocery Essentials,T-Shirt,Laptop",Shoes,7798,Medium,16,105,10,20,0
+CUST387,25,Male,33612,Groceries,109,3,"Gaming Console,Household Products,Grocery Essentials",Watch,7292,Medium,20,82,9,17,0
+CUST52,49,Female,71635,Home,19,2,"Gaming Console,Watch,Shoes",Laptop,6769,Luxury,2,154,3,100,0
+CUST224,41,Female,62073,Sports,105,10,"Laptop,Household Products,Smartphone",Laptop,14817,Luxury,1,122,2,33,1
+CUST41,24,Female,86279,Sports,87,1,"Shoes,T-Shirt,Watch",Smartphone,16640,Luxury,16,58,2,81,0
+CUST328,38,Male,10239,Sports,51,10,"Headphones,Smartphone,Laptop",Household Products,2603,Budget,3,135,10,33,1
+CUST404,20,Female,81156,Groceries,6,2,"Grocery Essentials,Household Products,Smartphone",Smartphone,8535,Luxury,14,109,7,74,0
+CUST79,30,Male,52544,Fashion,46,1,"Grocery Essentials,Headphones,T-Shirt",Headphones,3347,Medium,20,37,6,83,0
+CUST415,60,Female,40829,Electronics,36,10,"Laptop,T-Shirt,Smartphone",Watch,11884,Medium,13,49,4,50,0
+CUST240,58,Female,76134,Electronics,92,2,"T-Shirt,Headphones,Smartphone",Gaming Console,9584,Luxury,12,42,1,95,0
+CUST128,26,Male,29723,Fashion,7,9,"Shoes,Laptop,Watch",Headphones,3629,Medium,11,176,8,30,1
+CUST316,34,Male,16006,Fashion,105,9,"T-Shirt,Smartphone,Watch",T-Shirt,2009,Budget,2,166,10,72,0
+CUST384,52,Male,18500,Groceries,65,5,"Smartphone,Grocery Essentials,Watch",T-Shirt,1933,Budget,8,8,5,68,0
+CUST148,65,Female,41969,Home,120,4,"Household Products,Headphones,T-Shirt",Shoes,11863,Medium,10,44,1,19,0
+CUST223,43,Female,9110,Sports,16,1,"Smartphone,T-Shirt,Headphones",Grocery Essentials,2061,Budget,11,143,6,57,0
+CUST311,18,Male,41567,Sports,62,1,"Grocery Essentials,Headphones,Shoes",Headphones,9430,Medium,15,38,2,13,0
+CUST69,46,Male,74117,Home,13,8,"Shoes,Laptop,Headphones",Gaming Console,5904,Luxury,11,161,8,96,0
+CUST305,23,Female,75603,Home,5,1,"Headphones,Shoes,Laptop",Laptop,15410,Luxury,5,73,8,95,0
+CUST39,28,Male,15807,Electronics,27,5,"Headphones,T-Shirt,Grocery Essentials",Household Products,3817,Budget,2,146,9,89,0
+CUST375,32,Male,46726,Sports,113,10,"Watch,Gaming Console,Headphones",Watch,3277,Medium,5,121,3,80,0
+CUST405,38,Female,90318,Home,60,2,"Household Products,Laptop,Smartphone",Laptop,15282,Luxury,19,83,3,60,0
+CUST388,54,Female,14509,Electronics,43,1,"Gaming Console,Laptop,Household Products",Household Products,1082,Budget,2,121,4,78,0
+CUST150,29,Male,54484,Home,63,6,"Headphones,Shoes,Smartphone",Headphones,8399,Medium,14,57,7,29,0
+CUST340,36,Female,21374,Home,118,5,"Grocery Essentials,Smartphone,Gaming Console",Household Products,5002,Budget,7,6,1,41,0
+CUST124,53,Female,75013,Fashion,115,1,"Grocery Essentials,Shoes,Headphones",Laptop,4251,Luxury,16,167,6,46,0
+CUST365,33,Male,22431,Electronics,7,6,"Gaming Console,Watch,Headphones",Grocery Essentials,5511,Budget,11,42,7,68,0
+CUST104,55,Female,15605,Home,24,10,"Headphones,Shoes,Grocery Essentials",T-Shirt,1519,Budget,8,86,3,26,0
+CUST192,52,Female,78301,Electronics,114,8,"Household Products,Headphones,Smartphone",Smartphone,8434,Luxury,7,129,2,41,0
+CUST15,30,Female,67494,Groceries,8,6,"Household Products,Shoes,Gaming Console",Smartphone,18478,Luxury,20,49,2,28,0
+CUST215,64,Female,27247,Groceries,75,1,"Shoes,Headphones,Grocery Essentials",Watch,4606,Medium,15,176,7,86,0
+CUST329,59,Female,61095,Electronics,42,7,"Shoes,Headphones,Laptop",Laptop,17000,Luxury,9,104,9,7,0
+CUST413,29,Female,25309,Sports,37,10,"Watch,Grocery Essentials,Shoes",Shoes,4094,Medium,6,19,4,13,0
+CUST466,25,Female,74104,Home,86,4,"T-Shirt,Shoes,Gaming Console",Smartphone,14817,Luxury,15,154,3,66,0
+CUST437,29,Female,84290,Home,95,4,"Laptop,Grocery Essentials,Shoes",Laptop,12200,Luxury,18,126,10,39,1
+CUST461,24,Male,99551,Home,63,2,"Smartphone,Shoes,Household Products",Smartphone,19258,Luxury,15,114,10,64,0
+CUST142,38,Female,29062,Home,87,6,"Grocery Essentials,Shoes,Laptop",Shoes,7968,Medium,15,171,8,94,0
+CUST351,35,Female,87952,Electronics,47,9,"Headphones,Grocery Essentials,Watch",Gaming Console,11655,Luxury,5,49,8,6,0
+CUST178,36,Male,37973,Electronics,67,5,"Smartphone,Watch,Gaming Console",Headphones,5631,Medium,10,36,6,65,0
+CUST491,28,Female,40501,Groceries,30,8,"Grocery Essentials,Headphones,Smartphone",Headphones,10155,Medium,8,75,4,76,0
+CUST300,21,Male,94633,Electronics,101,10,"Watch,Shoes,Smartphone",Gaming Console,13221,Luxury,17,17,6,64,0
+CUST451,19,Female,74937,Home,94,7,"Laptop,Grocery Essentials,Smartphone",Gaming Console,21638,Luxury,19,142,7,1,1
+CUST155,26,Female,59426,Home,101,5,"T-Shirt,Headphones,Household Products",Watch,5152,Medium,14,89,7,7,0
+CUST394,62,Male,71956,Fashion,47,4,"Grocery Essentials,Shoes,Smartphone",Laptop,13027,Luxury,4,26,7,18,0
+CUST188,37,Female,36496,Sports,70,8,"Household Products,Gaming Console,Watch",Watch,9791,Medium,9,72,4,83,0
+CUST235,64,Male,39520,Home,19,10,"Gaming Console,Shoes,Watch",Shoes,4923,Medium,13,41,4,74,0
+CUST323,65,Male,70480,Electronics,43,9,"Shoes,Smartphone,Household Products",Smartphone,15393,Luxury,16,97,4,1,0
+CUST284,25,Female,14588,Groceries,96,2,"Shoes,Laptop,Grocery Essentials",T-Shirt,1345,Budget,15,165,9,4,1
+CUST190,26,Female,26755,Fashion,87,6,"Household Products,Smartphone,Headphones",Headphones,1426,Medium,8,170,6,8,1
+CUST217,48,Male,56885,Electronics,70,4,"Watch,Household Products,Gaming Console",Headphones,9717,Medium,2,137,3,18,1
+CUST458,60,Male,47519,Fashion,8,6,"Gaming Console,Smartphone,Household Products",Shoes,6772,Medium,7,154,4,58,0
+CUST374,32,Female,74324,Fashion,117,1,"T-Shirt,Grocery Essentials,Gaming Console",Smartphone,20512,Luxury,15,96,9,61,0
+CUST376,27,Male,70934,Electronics,52,6,"Smartphone,Gaming Console,Shoes",Gaming Console,10471,Luxury,12,65,4,75,0
+CUST73,27,Female,88734,Fashion,119,9,"Shoes,Household Products,Headphones",Smartphone,23909,Luxury,10,49,6,39,0
+CUST202,44,Male,60256,Sports,18,8,"Shoes,Smartphone,Grocery Essentials",Laptop,9981,Luxury,2,6,1,32,0
+CUST186,28,Female,82392,Groceries,105,3,"Watch,Grocery Essentials,Laptop",Gaming Console,6118,Luxury,15,95,1,35,0
+CUST360,37,Male,87188,Fashion,44,7,"T-Shirt,Grocery Essentials,Smartphone",Gaming Console,5519,Luxury,2,105,10,28,0
+CUST246,50,Female,37625,Sports,33,3,"Watch,Smartphone,Shoes",Shoes,7526,Medium,12,136,6,36,1
+CUST183,22,Male,11196,Electronics,35,1,"Watch,T-Shirt,Gaming Console",Household Products,1634,Budget,12,175,6,95,0
+CUST179,42,Female,25753,Electronics,16,3,"Shoes,Gaming Console,Headphones",Shoes,4010,Medium,11,179,3,95,0
+CUST66,22,Female,25015,Fashion,75,6,"Shoes,Grocery Essentials,T-Shirt",Shoes,5877,Medium,18,84,7,77,0
+CUST197,39,Male,42314,Groceries,97,6,"Laptop,Shoes,Smartphone",Watch,6092,Medium,2,15,5,89,0
+CUST335,38,Male,28475,Home,29,10,"Smartphone,Grocery Essentials,Shoes",Shoes,5940,Medium,6,70,1,29,0
+CUST160,52,Female,27924,Home,96,7,"Smartphone,Headphones,Household Products",Headphones,7316,Medium,11,117,5,90,0
+CUST167,62,Female,25293,Groceries,113,9,"Laptop,Grocery Essentials,Household Products",Shoes,3567,Medium,20,93,5,47,0
+CUST195,59,Female,34234,Fashion,7,8,"Gaming Console,Headphones,Grocery Essentials",Headphones,7867,Medium,17,20,7,39,0
+CUST242,41,Male,39972,Electronics,84,6,"Laptop,Gaming Console,Watch",Watch,7654,Medium,13,73,9,38,0
+CUST214,31,Male,71730,Home,43,1,"Headphones,Watch,T-Shirt",Smartphone,7282,Luxury,12,11,1,96,0
+CUST203,31,Male,20708,Electronics,70,6,"Household Products,T-Shirt,Smartphone",Household Products,4066,Budget,3,49,6,55,0
+CUST470,54,Female,96848,Home,54,5,"Headphones,Grocery Essentials,Household Products",Smartphone,26331,Luxury,5,66,7,9,0
+CUST460,46,Female,44473,Home,12,7,"Shoes,Household Products,T-Shirt",Headphones,11338,Medium,6,26,5,14,0
+CUST131,27,Female,27947,Fashion,26,8,"T-Shirt,Grocery Essentials,Shoes",Watch,3106,Medium,3,47,6,32,0
+CUST262,20,Female,63278,Home,111,9,"Shoes,Household Products,T-Shirt",Smartphone,12536,Luxury,16,4,9,84,0
+CUST23,58,Male,56442,Fashion,112,9,"T-Shirt,Laptop,Headphones",Watch,16027,Medium,8,143,3,71,0
+CUST324,51,Female,69638,Groceries,91,5,"Household Products,Watch,Gaming Console",Gaming Console,8719,Luxury,6,68,4,62,0
+CUST364,62,Female,25772,Sports,90,4,"Headphones,Laptop,Smartphone",Headphones,7729,Medium,14,122,2,35,1
+CUST478,23,Male,79038,Fashion,21,10,"T-Shirt,Household Products,Grocery Essentials",Smartphone,19209,Luxury,10,39,2,6,0
+CUST424,36,Male,99121,Groceries,21,4,"T-Shirt,Gaming Console,Smartphone",Laptop,13934,Luxury,15,109,1,80,0
+CUST149,59,Male,96730,Sports,91,2,"Shoes,T-Shirt,Headphones",Smartphone,18408,Luxury,4,34,2,73,0
+CUST449,59,Female,41799,Groceries,114,9,"Household Products,Shoes,Smartphone",Headphones,2118,Medium,20,137,5,87,0
+CUST359,51,Male,96485,Sports,56,1,"Gaming Console,Smartphone,T-Shirt",Laptop,13835,Luxury,13,107,1,96,0
+CUST181,52,Male,88672,Sports,63,3,"Laptop,T-Shirt,Watch",Gaming Console,13834,Luxury,18,155,8,99,0
+CUST271,33,Male,39166,Home,99,7,"Headphones,T-Shirt,Shoes",Shoes,9924,Medium,7,116,8,18,0
+CUST12,43,Male,40429,Home,46,2,"Smartphone,Gaming Console,Laptop",Shoes,7070,Medium,13,147,8,55,0
+CUST369,61,Male,27059,Groceries,82,4,"Headphones,Smartphone,T-Shirt",Headphones,1808,Medium,3,64,4,19,0
+CUST287,52,Female,25523,Groceries,19,10,"Headphones,Household Products,Watch",Watch,2714,Medium,16,64,1,74,0
+CUST25,36,Male,59189,Sports,25,1,"Smartphone,Grocery Essentials,Gaming Console",Watch,3286,Medium,4,178,5,20,1
+CUST58,21,Male,86142,Fashion,63,2,"Grocery Essentials,Gaming Console,Headphones",Gaming Console,10055,Luxury,17,158,7,96,0
+CUST206,48,Male,66611,Home,23,7,"Household Products,Headphones,Gaming Console",Smartphone,15266,Luxury,14,28,5,28,0
+CUST258,32,Female,85977,Fashion,68,7,"Gaming Console,Shoes,Household Products",Smartphone,9066,Luxury,15,143,3,58,0
+CUST422,51,Male,27210,Fashion,105,10,"Shoes,Gaming Console,Grocery Essentials",Headphones,5670,Medium,20,66,4,56,0
+CUST34,27,Female,45306,Sports,54,7,"Household Products,Smartphone,Shoes",Headphones,10115,Medium,18,143,6,19,1
+CUST389,50,Male,33020,Sports,6,8,"Smartphone,T-Shirt,Shoes",Headphones,4733,Medium,10,132,10,52,0
+CUST341,25,Male,19000,Fashion,71,9,"Watch,Household Products,Gaming Console",T-Shirt,5148,Budget,2,31,7,10,0
+CUST495,47,Male,35509,Electronics,69,10,"Household Products,Watch,Gaming Console",Headphones,7836,Medium,9,19,7,89,0
+CUST16,24,Male,54759,Home,24,4,"Household Products,Shoes,Gaming Console",Shoes,6703,Medium,20,43,6,80,0
+CUST313,36,Male,60106,Fashion,11,2,"Gaming Console,Laptop,Smartphone",Smartphone,12896,Luxury,4,11,10,95,0
+CUST225,54,Male,97328,Sports,86,10,"Shoes,Headphones,Grocery Essentials",Laptop,28625,Luxury,13,168,3,43,0
+CUST445,36,Male,95361,Sports,108,4,"T-Shirt,Household Products,Shoes",Gaming Console,26479,Luxury,9,63,9,90,0
+CUST263,22,Male,99974,Groceries,58,4,"Grocery Essentials,Headphones,Gaming Console",Gaming Console,24903,Luxury,12,95,9,1,0
+CUST221,32,Female,86791,Sports,120,7,"Smartphone,Laptop,Shoes",Smartphone,24041,Luxury,7,72,1,51,0
+CUST260,65,Female,93580,Electronics,42,4,"Shoes,Household Products,Gaming Console",Smartphone,27419,Luxury,3,137,6,45,0
+CUST138,23,Male,99455,Fashion,43,6,"Laptop,T-Shirt,Grocery Essentials",Gaming Console,15800,Luxury,7,160,9,42,0
+CUST492,49,Male,74571,Electronics,58,2,"Grocery Essentials,Laptop,Watch",Smartphone,4037,Luxury,5,4,1,63,0
+CUST409,42,Male,92735,Sports,93,9,"Household Products,Gaming Console,Laptop",Smartphone,26316,Luxury,20,158,4,21,1
+CUST185,22,Male,48173,Sports,27,3,"Laptop,Smartphone,Shoes",Shoes,2504,Medium,8,170,2,10,1
+CUST61,38,Male,18966,Home,34,10,"T-Shirt,Gaming Console,Headphones",Household Products,5250,Budget,13,58,5,81,0
+CUST53,39,Female,18075,Sports,46,2,"Shoes,Gaming Console,Grocery Essentials",Household Products,1469,Budget,14,101,6,61,0
+CUST289,65,Female,48483,Fashion,97,9,"Household Products,Shoes,Smartphone",Watch,6266,Medium,15,28,5,2,0
+CUST314,55,Male,54768,Sports,58,8,"Household Products,Gaming Console,Shoes",Headphones,6583,Medium,10,22,8,31,0
+CUST267,59,Male,88052,Groceries,100,3,"Household Products,Smartphone,Headphones",Smartphone,17767,Luxury,10,40,3,28,0
+CUST493,43,Female,62743,Fashion,71,3,"Smartphone,Household Products,T-Shirt",Gaming Console,13652,Luxury,13,137,8,36,1
+CUST85,65,Female,64521,Home,12,9,"T-Shirt,Laptop,Headphones",Gaming Console,4552,Luxury,5,127,10,90,0
+CUST309,58,Female,23813,Sports,82,3,"Watch,Grocery Essentials,T-Shirt",Household Products,7125,Budget,3,82,5,62,0
+CUST464,33,Female,60675,Electronics,59,6,"Headphones,Household Products,Laptop",Gaming Console,15342,Luxury,3,125,2,67,0
+CUST433,41,Male,8866,Sports,113,10,"Gaming Console,Smartphone,Watch",T-Shirt,2541,Budget,5,114,2,97,0
+CUST500,42,Male,27065,Sports,17,2,"Gaming Console,Household Products,Shoes",Watch,2398,Medium,1,37,8,85,0
+CUST109,38,Male,65965,Home,26,2,"T-Shirt,Smartphone,Gaming Console",Laptop,6051,Luxury,12,69,1,69,0
+CUST352,59,Female,38232,Fashion,40,6,"Shoes,T-Shirt,Grocery Essentials",Watch,8043,Medium,13,179,3,85,0
+CUST19,63,Female,20135,Fashion,81,4,"T-Shirt,Shoes,Laptop",Grocery Essentials,4912,Budget,7,77,7,10,0
+CUST222,27,Male,62128,Electronics,90,7,"Shoes,Household Products,Laptop",Smartphone,6178,Luxury,4,170,1,18,1
+CUST442,34,Female,40268,Electronics,26,4,"Household Products,Laptop,Grocery Essentials",Watch,6674,Medium,19,47,8,82,0
+CUST430,64,Male,54710,Groceries,31,9,"Shoes,Watch,Grocery Essentials",Headphones,11368,Medium,6,108,9,15,0
+CUST280,53,Male,27389,Fashion,8,1,"T-Shirt,Laptop,Shoes",Shoes,4224,Medium,20,113,10,21,0
+CUST362,22,Male,93563,Home,60,6,"Headphones,Household Products,Shoes",Laptop,18653,Luxury,5,7,4,47,0
+CUST279,65,Male,23480,Electronics,7,8,"Grocery Essentials,Shoes,Gaming Console",Household Products,4068,Budget,10,79,4,32,0
+CUST14,23,Female,61401,Home,79,6,"T-Shirt,Shoes,Smartphone",Laptop,7945,Luxury,4,84,10,63,0
+CUST168,41,Male,65891,Sports,10,8,"T-Shirt,Watch,Household Products",Smartphone,13601,Luxury,17,169,7,19,1
+CUST121,51,Male,71890,Home,47,7,"Grocery Essentials,Shoes,Laptop",Laptop,12661,Luxury,3,35,8,13,0
+CUST337,48,Male,42630,Groceries,63,3,"T-Shirt,Watch,Shoes",Shoes,10868,Medium,15,81,1,20,0
+CUST463,25,Female,45729,Electronics,20,3,"Smartphone,Watch,Laptop",Shoes,2444,Medium,6,172,5,97,0
+CUST50,56,Male,77086,Home,10,1,"Laptop,Smartphone,Headphones",Laptop,8421,Luxury,10,146,8,15,1
+CUST198,60,Female,63444,Electronics,33,10,"Household Products,Headphones,Gaming Console",Laptop,9947,Luxury,15,71,6,98,0
+CUST56,56,Female,90274,Sports,25,8,"Gaming Console,Grocery Essentials,T-Shirt",Laptop,19861,Luxury,6,53,3,23,0
+CUST112,58,Male,54573,Home,102,3,"Grocery Essentials,Shoes,Watch",Shoes,11295,Medium,6,113,5,16,0
+CUST338,55,Male,26687,Electronics,12,1,"Headphones,Household Products,Shoes",Watch,2986,Medium,6,28,7,80,0
+CUST86,31,Male,35535,Home,96,4,"Gaming Console,Watch,Grocery Essentials",Shoes,8578,Medium,13,57,2,30,0
+CUST37,39,Female,29783,Groceries,76,9,"Gaming Console,Shoes,Headphones",Headphones,8732,Medium,18,11,6,54,0
+CUST119,54,Male,10759,Fashion,71,1,"Household Products,T-Shirt,Smartphone",Household Products,864,Budget,2,83,8,68,0
+CUST247,41,Male,27592,Electronics,22,9,"Watch,Household Products,Headphones",Watch,7992,Medium,10,178,1,53,0
+CUST476,57,Male,44138,Groceries,72,5,"Headphones,Laptop,Smartphone",Watch,7338,Medium,20,88,6,90,0
+CUST95,55,Female,60700,Groceries,12,2,"Household Products,Smartphone,Headphones",Smartphone,3266,Luxury,13,44,2,87,0
+CUST238,18,Female,17891,Home,71,7,"T-Shirt,Shoes,Gaming Console",T-Shirt,4197,Budget,17,70,9,73,0
+CUST76,48,Male,77694,Home,48,6,"Watch,Smartphone,Laptop",Gaming Console,11133,Luxury,14,59,9,26,0
+CUST363,24,Female,32136,Fashion,62,5,"Gaming Console,Grocery Essentials,Shoes",Shoes,8663,Medium,9,131,5,87,0
+CUST62,41,Male,25182,Home,11,8,"T-Shirt,Gaming Console,Smartphone",Watch,4088,Medium,17,158,4,42,0
+CUST400,65,Female,41890,Fashion,21,2,"Grocery Essentials,Laptop,Shoes",Watch,11958,Medium,9,17,4,37,0
+CUST87,31,Female,26017,Home,30,4,"Watch,Shoes,Smartphone",Shoes,3458,Medium,2,68,9,29,0
+CUST361,50,Male,29349,Groceries,89,3,"Shoes,T-Shirt,Laptop",Shoes,3420,Medium,18,149,5,77,0
+CUST46,63,Male,59375,Fashion,87,7,"Smartphone,Gaming Console,T-Shirt",Headphones,10794,Medium,9,5,2,75,0
+CUST293,57,Male,74699,Electronics,17,1,"Shoes,Smartphone,Laptop",Smartphone,4718,Luxury,6,103,2,77,0
+CUST348,42,Female,51905,Electronics,27,2,"Grocery Essentials,T-Shirt,Household Products",Watch,8947,Medium,19,127,9,5,1
+CUST350,40,Female,75641,Fashion,72,6,"Grocery Essentials,Household Products,Headphones",Smartphone,9141,Luxury,11,63,1,36,0
+CUST35,38,Male,26604,Electronics,95,5,"Watch,Shoes,T-Shirt",Watch,2294,Medium,17,42,6,69,0
+CUST136,65,Male,52221,Groceries,62,1,"Smartphone,Household Products,Watch",Headphones,5032,Medium,3,74,3,32,0
+CUST6,27,Female,62834,Electronics,106,10,"Household Products,Smartphone,Headphones",Smartphone,5293,Luxury,6,116,2,44,0
+CUST370,26,Female,89113,Electronics,112,10,"Grocery Essentials,Headphones,Gaming Console",Laptop,22601,Luxury,18,52,6,50,0
+CUST99,53,Female,42674,Home,32,6,"Shoes,Watch,Gaming Console",Headphones,2225,Medium,9,136,4,5,1
+CUST282,50,Male,54709,Groceries,43,5,"Watch,Laptop,Smartphone",Headphones,13575,Medium,3,61,10,9,0
+CUST213,23,Female,49232,Fashion,97,2,"Laptop,Gaming Console,Grocery Essentials",Shoes,9549,Medium,2,70,10,11,0
+CUST2,60,Male,51041,Home,100,3,"Household Products,Watch,Headphones",Shoes,8954,Medium,10,62,5,67,0
+CUST64,49,Female,81680,Electronics,71,5,"Laptop,Grocery Essentials,T-Shirt",Laptop,8520,Luxury,11,100,3,40,0
+CUST332,22,Female,53958,Sports,105,5,"Gaming Console,Shoes,Grocery Essentials",Shoes,4110,Medium,18,138,5,14,1
+CUST89,21,Female,91185,Electronics,86,7,"Shoes,T-Shirt,Gaming Console",Smartphone,22861,Luxury,10,52,1,20,0
+CUST286,37,Female,16543,Electronics,37,9,"Headphones,Laptop,Shoes",T-Shirt,3579,Budget,13,60,4,29,0
+CUST88,47,Female,13958,Fashion,38,1,"Watch,Household Products,Smartphone",Grocery Essentials,3876,Budget,10,141,1,68,0
+CUST65,64,Female,6474,Home,39,3,"Laptop,T-Shirt,Household Products",T-Shirt,1472,Budget,9,161,7,57,0
+CUST239,55,Female,57831,Fashion,7,7,"Shoes,Laptop,Household Products",Headphones,8024,Medium,17,70,6,9,0
+CUST163,42,Female,66610,Groceries,65,9,"Gaming Console,Laptop,T-Shirt",Smartphone,19230,Luxury,4,34,9,21,0
+CUST450,57,Male,40489,Groceries,17,8,"Gaming Console,Watch,T-Shirt",Shoes,10231,Medium,4,100,2,1,0
+CUST78,39,Female,95553,Home,24,2,"Smartphone,Shoes,Grocery Essentials",Smartphone,20415,Luxury,5,83,8,38,0
+CUST403,58,Female,15595,Home,106,8,"Laptop,Watch,Household Products",Grocery Essentials,3381,Budget,18,63,8,14,0
+CUST273,19,Male,63418,Fashion,64,6,"Grocery Essentials,Watch,Household Products",Gaming Console,6777,Luxury,13,17,6,85,0
+CUST191,25,Female,9851,Home,24,8,"Smartphone,Watch,T-Shirt",Grocery Essentials,2572,Budget,9,20,10,5,0
+CUST345,60,Male,85535,Electronics,88,7,"Laptop,Gaming Console,Household Products",Gaming Console,25377,Luxury,13,99,8,11,0
+CUST278,64,Male,8066,Electronics,40,6,"Laptop,Headphones,Household Products",T-Shirt,808,Budget,9,177,6,46,0
+CUST343,45,Male,67783,Electronics,39,7,"Smartphone,Shoes,Household Products",Laptop,3434,Luxury,16,37,6,39,0
+CUST249,30,Male,61628,Groceries,96,1,"T-Shirt,Gaming Console,Smartphone",Laptop,14581,Luxury,10,178,6,93,0
+CUST80,53,Male,75785,Sports,32,1,"Headphones,Watch,Grocery Essentials",Smartphone,7310,Luxury,6,177,3,81,0
+CUST229,31,Female,99879,Sports,92,3,"Watch,Grocery Essentials,Household Products",Smartphone,13406,Luxury,2,21,9,82,0
+CUST416,19,Male,34710,Groceries,42,9,"Watch,Laptop,Shoes",Shoes,10152,Medium,2,138,3,12,1
+CUST220,39,Female,16104,Sports,89,10,"Shoes,Gaming Console,Smartphone",T-Shirt,3777,Budget,18,140,1,51,0
+CUST401,26,Female,43019,Sports,81,8,"Gaming Console,Shoes,Smartphone",Headphones,7561,Medium,7,73,9,15,0
+CUST96,64,Male,11724,Electronics,84,1,"Gaming Console,T-Shirt,Household Products",T-Shirt,3365,Budget,19,16,2,2,0
+CUST435,34,Male,78290,Groceries,22,3,"Watch,Smartphone,Grocery Essentials",Laptop,12172,Luxury,13,68,8,68,0
+CUST407,43,Male,84038,Fashion,102,9,"Household Products,Smartphone,T-Shirt",Laptop,24363,Luxury,8,37,6,75,0
+CUST134,59,Female,38020,Home,79,9,"Laptop,Watch,Grocery Essentials",Watch,4871,Medium,8,79,1,23,0
+CUST427,53,Male,85777,Home,119,1,"Laptop,Grocery Essentials,Gaming Console",Smartphone,8741,Luxury,16,145,7,44,0
+CUST144,22,Male,42744,Fashion,59,3,"Gaming Console,Household Products,Grocery Essentials",Shoes,10122,Medium,4,26,9,10,0
+CUST294,35,Male,67318,Groceries,116,6,"Shoes,Smartphone,Headphones",Gaming Console,5580,Luxury,7,24,4,13,0
+CUST236,32,Male,81032,Electronics,74,4,"Watch,Grocery Essentials,Gaming Console",Laptop,21550,Luxury,5,159,8,19,1
+CUST331,28,Male,34472,Home,9,5,"Shoes,Laptop,Household Products",Headphones,9463,Medium,9,2,9,9,0
+CUST42,54,Female,9023,Home,32,2,"T-Shirt,Gaming Console,Headphones",Grocery Essentials,1379,Budget,19,27,10,73,0
+CUST90,23,Female,71465,Groceries,32,5,"Grocery Essentials,Shoes,Household Products",Laptop,5811,Luxury,17,174,8,85,0
+CUST454,33,Female,11963,Groceries,72,10,"Gaming Console,Household Products,Grocery Essentials",T-Shirt,3557,Budget,7,27,2,94,0
+CUST392,48,Male,34902,Sports,36,2,"Household Products,Gaming Console,T-Shirt",Headphones,3084,Medium,15,6,4,84,0
+CUST264,56,Male,23559,Home,9,5,"Smartphone,Laptop,T-Shirt",Grocery Essentials,3054,Budget,20,129,9,69,0
+CUST27,24,Female,90528,Electronics,44,10,"Smartphone,Laptop,Shoes",Laptop,6081,Luxury,19,145,8,44,0
+CUST13,62,Male,22530,Electronics,113,8,"T-Shirt,Shoes,Grocery Essentials",T-Shirt,5797,Budget,12,143,2,3,1
+CUST276,45,Female,39538,Home,13,6,"Grocery Essentials,Laptop,T-Shirt",Headphones,2798,Medium,3,111,5,36,0
+CUST10,18,Male,6374,Home,29,7,"Grocery Essentials,Laptop,Household Products",Household Products,795,Budget,12,57,1,90,0
+CUST166,25,Female,69439,Home,67,1,"Watch,Headphones,T-Shirt",Gaming Console,15249,Luxury,18,39,8,22,0
+CUST472,32,Male,12203,Home,71,10,"Shoes,Smartphone,Household Products",Household Products,3187,Budget,1,122,2,61,0
+CUST137,44,Male,17307,Fashion,114,10,"Shoes,Headphones,Gaming Console",Household Products,1071,Budget,15,86,9,58,0
+CUST296,55,Female,30390,Sports,82,5,"Shoes,T-Shirt,Household Products",Shoes,4674,Medium,19,100,9,5,0
+CUST330,21,Female,99462,Fashion,71,6,"Gaming Console,Shoes,Laptop",Laptop,22125,Luxury,12,22,10,60,0
+CUST419,44,Female,44347,Fashion,62,10,"Grocery Essentials,Watch,Laptop",Watch,11758,Medium,19,24,7,80,0
+CUST487,39,Female,95354,Home,7,8,"Laptop,Grocery Essentials,Smartphone",Laptop,6749,Luxury,13,137,3,29,1
+CUST91,64,Male,59450,Groceries,33,1,"Gaming Console,Grocery Essentials,Headphones",Headphones,12183,Medium,6,89,9,90,0
+CUST441,37,Female,83394,Electronics,5,5,"T-Shirt,Laptop,Smartphone",Smartphone,10507,Luxury,5,81,6,51,0
+CUST315,65,Male,98428,Home,97,3,"Watch,Smartphone,Household Products",Laptop,9372,Luxury,3,141,3,7,1
+CUST318,55,Male,84511,Home,112,9,"T-Shirt,Laptop,Gaming Console",Laptop,7536,Luxury,13,111,5,30,0
+CUST26,44,Male,36670,Fashion,86,7,"Grocery Essentials,Laptop,Smartphone",Watch,7930,Medium,10,142,4,21,1
+CUST141,40,Female,75898,Fashion,37,2,"T-Shirt,Watch,Headphones",Laptop,18508,Luxury,19,80,4,90,0
+CUST54,38,Female,74081,Electronics,66,4,"Watch,Shoes,Headphones",Laptop,10044,Luxury,11,104,4,63,0
+CUST297,31,Male,27844,Home,8,2,"Headphones,Shoes,Smartphone",Headphones,7926,Medium,1,50,4,35,0
+CUST189,51,Male,77999,Home,89,2,"Household Products,Headphones,Watch",Laptop,21169,Luxury,20,164,3,81,0
+CUST256,39,Female,45276,Electronics,113,1,"Watch,Laptop,Smartphone",Shoes,7958,Medium,2,166,9,43,0
+CUST118,28,Female,18064,Electronics,58,4,"Household Products,T-Shirt,Smartphone",Grocery Essentials,5116,Budget,5,127,4,2,1
+CUST113,55,Male,14259,Electronics,53,4,"Laptop,T-Shirt,Watch",Household Products,2892,Budget,15,145,6,39,1
+CUST180,46,Female,12941,Home,82,9,"Laptop,Gaming Console,Smartphone",Grocery Essentials,2038,Budget,7,67,2,54,0
+CUST82,41,Male,95788,Groceries,68,9,"Household Products,Gaming Console,Watch",Smartphone,13279,Luxury,1,63,9,4,0
+CUST5,56,Female,68182,Groceries,56,4,"T-Shirt,Watch,Gaming Console",Gaming Console,18975,Luxury,9,104,3,86,0
+CUST177,43,Male,50498,Groceries,119,9,"T-Shirt,Household Products,Smartphone",Headphones,4940,Medium,14,88,4,9,0
+CUST482,20,Male,72943,Electronics,107,4,"Laptop,T-Shirt,Gaming Console",Smartphone,18160,Luxury,12,113,10,3,0
+CUST145,56,Male,49256,Fashion,18,1,"Grocery Essentials,Gaming Console,Shoes",Shoes,11819,Medium,19,26,8,45,0
+CUST3,18,Female,6132,Fashion,27,9,"Shoes,Watch,Smartphone",T-Shirt,862,Budget,1,16,8,31,0
+CUST479,28,Female,92254,Fashion,106,4,"Headphones,Laptop,Household Products",Gaming Console,10693,Luxury,16,98,1,34,0
+CUST207,64,Male,75441,Home,34,4,"Household Products,Headphones,Laptop",Laptop,14616,Luxury,11,141,1,20,1
+CUST377,30,Female,40294,Groceries,102,7,"Gaming Console,Grocery Essentials,Household Products",Watch,4113,Medium,11,141,3,57,0
+CUST176,40,Male,12425,Sports,86,3,"Gaming Console,Headphones,Household Products",Household Products,1769,Budget,5,80,3,30,0
+CUST49,55,Male,79168,Electronics,7,3,"Headphones,Laptop,Watch",Laptop,4640,Luxury,15,33,5,46,0
+CUST322,22,Male,91642,Fashion,33,5,"Watch,Laptop,Household Products",Gaming Console,7728,Luxury,17,143,1,88,0
+CUST259,31,Male,71305,Home,36,9,"Household Products,T-Shirt,Watch",Laptop,8590,Luxury,20,47,8,29,0
+CUST438,44,Female,60022,Electronics,20,8,"Smartphone,Gaming Console,T-Shirt",Smartphone,15402,Luxury,19,41,1,18,0
+CUST32,65,Male,53506,Sports,37,2,"T-Shirt,Laptop,Smartphone",Shoes,6451,Medium,9,116,2,42,0
+CUST310,62,Female,65114,Home,35,10,"Watch,T-Shirt,Headphones",Gaming Console,14731,Luxury,13,133,10,76,0
+CUST237,48,Male,87486,Home,80,7,"Grocery Essentials,Shoes,Watch",Laptop,25021,Luxury,20,78,9,60,0
+CUST473,37,Female,58585,Fashion,101,7,"Household Products,Grocery Essentials,Gaming Console",Watch,4703,Medium,6,98,6,86,0
+CUST265,48,Female,48801,Home,95,2,"Shoes,Headphones,Grocery Essentials",Headphones,3139,Medium,13,164,8,30,1
+CUST426,36,Female,39483,Electronics,41,4,"Grocery Essentials,Smartphone,Shoes",Headphones,2856,Medium,17,167,10,12,1
+CUST299,46,Female,78989,Home,60,9,"Grocery Essentials,Headphones,Household Products",Smartphone,18351,Luxury,7,89,7,41,0
+CUST484,42,Male,67409,Fashion,96,4,"Household Products,Shoes,Smartphone",Smartphone,4516,Luxury,3,63,1,29,0
+CUST434,36,Male,51221,Electronics,104,3,"Grocery Essentials,Watch,Laptop",Shoes,2966,Medium,9,41,8,79,0
+CUST398,51,Female,16799,Groceries,66,7,"Laptop,T-Shirt,Smartphone",T-Shirt,2536,Budget,12,15,10,76,0
+CUST320,23,Male,12308,Sports,27,2,"T-Shirt,Gaming Console,Shoes",Household Products,622,Budget,11,55,9,85,0
+CUST393,42,Male,79073,Electronics,44,8,"T-Shirt,Grocery Essentials,Headphones",Smartphone,8575,Luxury,2,65,4,74,0
+CUST194,43,Female,45936,Fashion,92,4,"Watch,Household Products,Laptop",Watch,5298,Medium,9,70,3,71,0
+CUST114,24,Male,73884,Electronics,8,2,"Headphones,Grocery Essentials,Shoes",Gaming Console,21738,Luxury,7,22,5,66,0
+CUST386,43,Male,6170,Groceries,67,9,"Grocery Essentials,Headphones,T-Shirt",T-Shirt,859,Budget,15,153,10,70,0
+CUST48,24,Female,16555,Home,64,2,"Household Products,T-Shirt,Watch",T-Shirt,2253,Budget,8,81,10,19,0
+CUST440,21,Male,67396,Electronics,13,2,"Shoes,Watch,Gaming Console",Laptop,14159,Luxury,20,74,9,66,0
+CUST170,61,Male,82823,Electronics,28,9,"Grocery Essentials,T-Shirt,Gaming Console",Gaming Console,7027,Luxury,19,56,3,22,0
+CUST411,37,Male,13993,Sports,48,5,"Household Products,Watch,Smartphone",Household Products,1112,Budget,16,82,7,64,0
+CUST111,65,Male,6728,Fashion,51,2,"Smartphone,Shoes,Headphones",Grocery Essentials,1903,Budget,5,179,6,57,0
+CUST397,45,Female,14398,Home,45,7,"Grocery Essentials,Smartphone,T-Shirt",Household Products,3278,Budget,18,49,8,76,0
+CUST347,32,Male,38559,Groceries,110,7,"Watch,Smartphone,Gaming Console",Headphones,8165,Medium,2,122,6,5,1
+CUST251,28,Male,24502,Sports,39,6,"Watch,Shoes,Gaming Console",T-Shirt,1945,Budget,14,171,4,50,0
+CUST241,24,Female,45482,Fashion,35,6,"Headphones,Shoes,Household Products",Watch,9542,Medium,3,146,2,31,1
+CUST439,65,Female,20392,Sports,91,2,"Laptop,Watch,T-Shirt",Grocery Essentials,1544,Budget,20,90,9,24,0
+CUST110,47,Female,63539,Home,47,3,"T-Shirt,Headphones,Gaming Console",Smartphone,15069,Luxury,11,32,8,100,0
+CUST157,39,Male,11435,Fashion,19,9,"Shoes,Grocery Essentials,Smartphone",T-Shirt,2762,Budget,2,55,9,12,0
+CUST281,29,Male,56306,Sports,41,2,"Gaming Console,Household Products,Headphones",Shoes,14249,Medium,19,146,9,28,1
+CUST395,49,Female,76872,Sports,11,1,"Grocery Essentials,Shoes,Watch",Laptop,19294,Luxury,9,114,1,74,0
+CUST494,64,Male,45778,Home,50,8,"Laptop,T-Shirt,Shoes",Watch,5896,Medium,6,61,4,67,0
+CUST107,28,Female,44761,Sports,112,7,"Watch,Grocery Essentials,Headphones",Headphones,10903,Medium,13,34,3,43,0
+CUST378,51,Female,62602,Groceries,5,10,"Shoes,Household Products,Gaming Console",Laptop,11500,Luxury,11,173,4,73,0
+CUST216,54,Female,47089,Fashion,107,3,"Household Products,Smartphone,Grocery Essentials",Shoes,13370,Medium,11,86,2,84,0
+CUST193,27,Male,9810,Home,23,8,"Smartphone,T-Shirt,Household Products",T-Shirt,2678,Budget,12,22,7,49,0
+CUST391,22,Female,26752,Sports,79,8,"Laptop,Smartphone,T-Shirt",Watch,7748,Medium,15,157,6,78,0
+CUST117,27,Male,13685,Home,66,3,"Watch,T-Shirt,Smartphone",T-Shirt,1327,Budget,3,102,8,95,0
+CUST257,41,Female,40691,Electronics,68,6,"Laptop,Gaming Console,Headphones",Shoes,10521,Medium,5,24,9,17,0
+CUST475,39,Female,9153,Fashion,32,9,"Gaming Console,Shoes,Watch",Household Products,954,Budget,4,38,1,40,0
+CUST353,22,Female,60577,Home,39,10,"Shoes,T-Shirt,Smartphone",Laptop,15604,Luxury,1,38,7,60,0
+CUST106,26,Female,5454,Groceries,42,3,"Watch,Shoes,Laptop",Household Products,335,Budget,3,165,8,25,1
+CUST292,25,Male,31027,Fashion,111,7,"Gaming Console,Smartphone,Household Products",Shoes,8826,Medium,5,5,9,88,0
+CUST230,34,Female,67371,Sports,17,9,"Shoes,T-Shirt,Headphones",Gaming Console,15232,Luxury,4,111,7,95,0
+CUST336,64,Male,40837,Fashion,58,10,"Shoes,Household Products,Smartphone",Watch,6424,Medium,8,4,4,22,0
+CUST1,31,Male,44472,Groceries,28,9,"Household Products,T-Shirt,Smartphone",Shoes,12206,Medium,5,2,3,37,0
+CUST226,65,Female,52037,Groceries,71,8,"Grocery Essentials,Gaming Console,Watch",Watch,11742,Medium,3,68,10,67,0
+CUST74,62,Male,19718,Sports,98,9,"Gaming Console,Household Products,T-Shirt",Household Products,4096,Budget,2,100,8,86,0
+CUST425,37,Female,80624,Fashion,96,7,"Household Products,T-Shirt,Grocery Essentials",Laptop,8906,Luxury,7,81,2,28,0
+CUST268,34,Female,8653,Sports,31,2,"Laptop,Gaming Console,Smartphone",T-Shirt,2317,Budget,8,107,10,34,0
+CUST295,36,Female,40254,Sports,90,2,"Smartphone,Laptop,Gaming Console",Headphones,2556,Medium,19,3,5,49,0
+CUST252,49,Male,53979,Sports,46,9,"Watch,Household Products,Shoes",Watch,14375,Medium,2,4,4,27,0
+CUST358,41,Male,60350,Sports,69,2,"Smartphone,Grocery Essentials,T-Shirt",Laptop,12108,Luxury,20,90,9,80,0
+CUST283,54,Female,68894,Sports,114,8,"Gaming Console,Grocery Essentials,T-Shirt",Laptop,12580,Luxury,9,81,9,31,0
+CUST219,42,Female,32276,Home,43,5,"T-Shirt,Smartphone,Gaming Console",Shoes,6351,Medium,4,96,3,12,0
+CUST133,35,Male,78808,Sports,37,9,"T-Shirt,Shoes,Grocery Essentials",Smartphone,22012,Luxury,8,41,3,93,0
+CUST334,50,Male,15604,Sports,79,10,"Watch,Gaming Console,Laptop",T-Shirt,946,Budget,15,175,7,55,0
+CUST390,21,Female,73276,Groceries,101,9,"T-Shirt,Household Products,Grocery Essentials",Laptop,19690,Luxury,8,33,1,20,0
+CUST83,56,Male,9225,Sports,22,7,"Household Products,Shoes,Smartphone",T-Shirt,2330,Budget,19,174,1,43,0
+CUST231,36,Male,89395,Home,96,8,"Household Products,Gaming Console,Grocery Essentials",Gaming Console,15181,Luxury,5,63,4,5,0
+CUST227,56,Female,53640,Fashion,35,8,"Watch,Headphones,Gaming Console",Shoes,7516,Medium,6,46,3,79,0
+CUST233,21,Male,65915,Groceries,58,10,"Laptop,Grocery Essentials,Gaming Console",Gaming Console,16773,Luxury,13,153,9,16,1
+CUST20,57,Male,18062,Sports,115,9,"Watch,T-Shirt,Headphones",Household Products,4460,Budget,4,160,10,61,0
+CUST162,63,Male,88054,Electronics,63,6,"Gaming Console,Household Products,T-Shirt",Smartphone,20365,Luxury,18,22,10,64,0
+CUST101,60,Female,20522,Groceries,75,4,"Headphones,Laptop,T-Shirt",Household Products,1522,Budget,20,86,3,82,0
+CUST396,27,Female,92131,Groceries,90,7,"Gaming Console,Shoes,Headphones",Laptop,7559,Luxury,8,130,3,46,0
+CUST92,57,Female,75331,Home,7,5,"Watch,Smartphone,Laptop",Laptop,6275,Luxury,13,146,3,10,1
+CUST304,46,Male,54209,Home,64,10,"Grocery Essentials,Laptop,Household Products",Shoes,4301,Medium,14,54,1,78,0
+CUST31,61,Male,98073,Sports,26,8,"Watch,Headphones,Household Products",Smartphone,13499,Luxury,10,12,6,96,0
+CUST469,25,Female,35207,Home,105,10,"Gaming Console,Household Products,Watch",Shoes,3208,Medium,10,150,3,26,1
+CUST346,45,Female,34714,Sports,64,3,"Shoes,Household Products,Headphones",Headphones,7690,Medium,17,147,5,4,1
+CUST355,35,Male,50175,Groceries,118,1,"Watch,Shoes,Headphones",Shoes,11023,Medium,3,171,4,96,0
+CUST36,56,Male,74653,Fashion,33,5,"Watch,Gaming Console,T-Shirt",Gaming Console,16338,Luxury,9,86,4,4,0
+CUST412,56,Male,44947,Groceries,45,9,"Laptop,Smartphone,Headphones",Headphones,10911,Medium,3,43,6,20,0
+CUST4,33,Male,30685,Electronics,24,8,"Laptop,Smartphone,Grocery Essentials",Shoes,8781,Medium,2,104,9,58,0
+CUST489,30,Female,92742,Fashion,54,9,"Watch,Gaming Console,Headphones",Smartphone,12698,Luxury,8,24,2,22,0
+CUST250,25,Female,40255,Fashion,38,7,"T-Shirt,Gaming Console,Watch",Watch,11548,Medium,19,138,4,26,1
+CUST274,36,Male,5563,Fashion,79,4,"Grocery Essentials,Headphones,Smartphone",Household Products,451,Budget,9,161,6,92,0
+CUST164,46,Male,73711,Sports,102,6,"Watch,Laptop,Headphones",Laptop,14645,Luxury,15,122,4,94,0
+CUST154,65,Female,13471,Fashion,96,10,"Smartphone,T-Shirt,Shoes",T-Shirt,3868,Budget,8,30,6,74,0
+CUST448,42,Male,42283,Groceries,39,1,"Watch,Headphones,T-Shirt",Headphones,8949,Medium,10,9,5,25,0
+CUST93,41,Female,20701,Fashion,93,5,"Laptop,Headphones,Household Products",Grocery Essentials,4535,Budget,19,53,10,70,0
+CUST366,24,Male,68025,Electronics,101,7,"Gaming Console,Grocery Essentials,Watch",Smartphone,6861,Luxury,19,10,6,88,0
+CUST187,63,Male,94479,Groceries,114,6,"Smartphone,Laptop,Gaming Console",Smartphone,23831,Luxury,7,108,9,84,0
+CUST122,36,Female,79367,Fashion,46,9,"Shoes,Headphones,Watch",Smartphone,15743,Luxury,8,107,1,10,0
+CUST59,45,Female,98921,Sports,31,7,"Laptop,Household Products,Grocery Essentials",Smartphone,8750,Luxury,19,56,5,21,0
+CUST201,60,Male,95663,Home,105,9,"Watch,Shoes,T-Shirt",Smartphone,8029,Luxury,18,178,8,29,1
+CUST349,24,Female,97692,Groceries,8,4,"Laptop,Smartphone,Shoes",Smartphone,7978,Luxury,4,57,5,53,0
+CUST116,35,Female,24902,Electronics,39,5,"Shoes,Laptop,Household Products",Household Products,3761,Budget,9,102,4,57,0
+CUST151,30,Male,80137,Groceries,70,2,"T-Shirt,Household Products,Headphones",Laptop,7467,Luxury,9,42,3,58,0
+CUST21,25,Female,17617,Electronics,83,6,"Grocery Essentials,Laptop,Shoes",Grocery Essentials,3499,Budget,8,97,9,43,0
+CUST339,18,Male,38201,Home,52,8,"Watch,Laptop,Gaming Console",Headphones,5434,Medium,15,32,10,11,0
+CUST175,49,Male,76680,Fashion,116,9,"Watch,Laptop,Smartphone",Smartphone,16285,Luxury,2,174,1,22,1
+CUST291,43,Male,91245,Sports,87,2,"Smartphone,Laptop,Headphones",Gaming Console,11796,Luxury,13,29,7,17,0
+CUST7,54,Male,87072,Electronics,66,1,"Smartphone,Watch,Gaming Console",Gaming Console,17548,Luxury,13,92,7,79,0
+CUST139,21,Female,79736,Electronics,91,4,"Household Products,Headphones,T-Shirt",Laptop,18579,Luxury,7,125,9,70,0
+CUST367,56,Male,32241,Groceries,67,4,"Gaming Console,T-Shirt,Shoes",Shoes,3621,Medium,17,150,7,81,0
+CUST321,60,Female,97084,Home,83,9,"Gaming Console,Laptop,T-Shirt",Laptop,18267,Luxury,12,85,6,86,0
+CUST100,26,Male,41923,Home,12,3,"Watch,Shoes,Household Products",Watch,8658,Medium,2,173,10,15,1
+CUST199,63,Female,78681,Sports,82,2,"T-Shirt,Household Products,Grocery Essentials",Gaming Console,19682,Luxury,10,88,4,90,0
+CUST371,60,Female,52132,Groceries,69,7,"Headphones,Household Products,Shoes",Shoes,5915,Medium,5,1,8,25,0
+CUST357,41,Female,43911,Groceries,83,9,"Headphones,T-Shirt,Grocery Essentials",Shoes,7976,Medium,9,164,2,23,1
+CUST327,48,Female,73298,Groceries,53,9,"Household Products,Smartphone,Watch",Laptop,14244,Luxury,9,36,6,71,0
+CUST208,24,Female,70968,Home,78,10,"Household Products,T-Shirt,Headphones",Smartphone,7660,Luxury,1,45,5,6,0
+CUST108,18,Male,52339,Fashion,82,1,"Gaming Console,Household Products,Shoes",Watch,5104,Medium,5,87,6,61,0
+CUST457,24,Female,21740,Fashion,22,7,"Smartphone,Shoes,T-Shirt",Grocery Essentials,2817,Budget,13,91,3,14,0
+CUST161,59,Male,30912,Fashion,103,10,"Grocery Essentials,Household Products,Smartphone",Headphones,6195,Medium,16,112,6,54,0
+CUST270,61,Male,68176,Electronics,114,1,"Laptop,Headphones,Household Products",Gaming Console,7948,Luxury,12,52,4,26,0
+CUST414,21,Male,54005,Sports,19,1,"Laptop,Headphones,Grocery Essentials",Watch,14981,Medium,4,81,3,22,0
+CUST196,37,Female,59657,Sports,117,6,"T-Shirt,Watch,Smartphone",Shoes,14159,Medium,6,166,10,44,0
+CUST248,40,Male,55937,Electronics,116,10,"T-Shirt,Grocery Essentials,Headphones",Headphones,15706,Medium,3,98,3,39,0
+CUST277,28,Female,73748,Electronics,6,4,"Watch,Laptop,T-Shirt",Smartphone,13980,Luxury,3,42,1,91,0
+CUST447,22,Male,34068,Fashion,81,9,"Watch,Gaming Console,Smartphone",Watch,7330,Medium,7,3,6,97,0
+CUST212,45,Male,86426,Home,120,10,"Grocery Essentials,Laptop,Shoes",Gaming Console,13950,Luxury,9,151,8,38,1
+CUST372,54,Female,87361,Groceries,24,8,"Gaming Console,T-Shirt,Smartphone",Laptop,22083,Luxury,18,99,7,91,0
+CUST480,40,Male,90668,Home,86,2,"Household Products,Grocery Essentials,Gaming Console",Gaming Console,18477,Luxury,15,46,9,58,0
+CUST84,21,Male,84637,Sports,6,1,"Gaming Console,Smartphone,Household Products",Gaming Console,20155,Luxury,7,170,6,21,1
+CUST455,25,Male,68476,Sports,56,2,"Household Products,Laptop,Gaming Console",Gaming Console,15317,Luxury,9,9,7,99,0
+CUST55,23,Male,60470,Groceries,39,7,"Household Products,Smartphone,Grocery Essentials",Smartphone,8049,Luxury,3,19,5,97,0
+CUST44,18,Male,64045,Groceries,6,2,"Laptop,Smartphone,Gaming Console",Gaming Console,4981,Luxury,16,94,6,20,0
+CUST24,21,Female,39863,Electronics,12,3,"Smartphone,Shoes,Gaming Console",Shoes,8734,Medium,10,176,1,91,0
+CUST253,56,Male,79264,Electronics,90,5,"T-Shirt,Laptop,Smartphone",Smartphone,14186,Luxury,13,126,6,9,1
+CUST275,40,Female,62881,Sports,87,1,"Watch,Laptop,Grocery Essentials",Laptop,16262,Luxury,10,68,7,84,0
+CUST22,21,Male,70793,Fashion,19,6,"Gaming Console,T-Shirt,Grocery Essentials",Laptop,8316,Luxury,9,99,7,4,0
+CUST303,61,Male,33118,Home,34,10,"Laptop,Shoes,Grocery Essentials",Shoes,5010,Medium,20,176,10,84,0
+CUST285,22,Male,93734,Sports,72,7,"Smartphone,Grocery Essentials,Shoes",Laptop,14911,Luxury,13,100,9,23,0
+CUST33,47,Female,88196,Home,80,7,"Smartphone,Shoes,Grocery Essentials",Smartphone,21387,Luxury,8,82,3,43,0
+CUST165,40,Female,12026,Fashion,10,5,"Household Products,Smartphone,Watch",Household Products,2479,Budget,16,42,10,33,0
